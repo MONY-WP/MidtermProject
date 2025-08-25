@@ -1,1 +1,1 @@
-from app import app
+from product import app
